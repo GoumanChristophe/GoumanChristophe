@@ -46,7 +46,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>Visual Studio Code
+      <br>VS Code
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
