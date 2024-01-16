@@ -39,9 +39,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>  
 </div>  
   
-<br/>  
-## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LionWorking&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
+<br/> 
