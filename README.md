@@ -2,6 +2,7 @@
 
 ## About Me
 
+
  - 🗼Former CEO in IT and Telecom with a newfound passion for programming and technology.
  - 🌱Experienced in managing a company and now eager to apply these skills in technology projects.
  - 🚀 Currently working on Play'n'Motiv, a project close to my heart.
@@ -9,7 +10,9 @@
  - 🎮 Open to various programming domains, interested in web development.
  - 🤿 Open to collaborations on diverse projects, bringing a unique blend of management and technical skills.
 
+
 ## My Skill Set  
+
 
 <table align="center"><tr><td valign="top" width="33%">
 
@@ -25,16 +28,15 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-  
-  
 </div>
-
-</td></tr></table>  
+  </td>
+    </tr>
+</table>  
 
 <br/>  
 
-
 ## Connect with me  
+
 <div align="center">
 <a href="mailto:cgouman@outlook.fr" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
