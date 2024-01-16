@@ -37,7 +37,7 @@ Open to collaborations on diverse projects, bringing a unique blend of managemen
 ## Connect with me  
 <div align="center">
 <a href="mailto:cgouman@outlook.fr" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/cgouman-gamingmanagementsolutions/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
