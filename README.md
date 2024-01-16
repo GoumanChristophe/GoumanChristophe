@@ -1,12 +1,10 @@
 ### Hey 👋, I'm Gouman Christophe.
 
-I am a **Programming rookie** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
+## About Me
+
+Professional Experience: Former CEO in the IT and telecommunications sector.
+Career Transition: Currently shifting towards programming, carrying various personal and professional projects.
+Current Project: Working on Play'n'Motiv, a project that is particularly close to my heart.
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
