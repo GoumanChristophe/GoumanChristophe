@@ -2,11 +2,15 @@
 
 ## About Me
 
-Professional Experience: Former CEO in the IT and telecommunications sector.
-Career Transition: Currently shifting towards programming, carrying various personal and professional projects.
-Current Project: Working on Play'n'Motiv, a project that is particularly close to my heart.
+Former CEO in IT and Telecom with a newfound passion for programming and technology.
+Experienced in managing a company and now eager to apply these skills in technology projects.
+Currently working on Play'n'Motiv, a project close to my heart.
+Proficient in C++ and self-taught in C#. Actively learning HTML, CSS, and JavaScript for web development.
+Open to various programming domains, interested in web development.
+Open to collaborations on diverse projects, bringing a unique blend of management and technical skills.
 
 ## My Skill Set  
+
 <table align="center"><tr><td valign="top" width="33%">
 
 <div align="center">  
