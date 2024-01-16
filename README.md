@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gouman Christophe
-=========================================================================================================================================
-
-* 🌍  I'm based in Nice
-* ✉️  You can contact me at [cgouman@outlook.fr](mailto:cgouman@outlook.fr)
+I am a **Programming rookie** 
+- I like to use a variety of useful **computer software** and build  **beautiful blog.**
+- I also like **literature, reading and writing.** 
+- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
+- and I also came into contact with **programming**.
+- Although I was **not interested** in it at the beginning,
+- **luckily I slowly fell in love with it. ❤️**
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
