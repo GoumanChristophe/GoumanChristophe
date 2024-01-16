@@ -33,6 +33,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <br>C++
     </td>
   </tr>
+  </table>
+  <table align="center">
   <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -49,11 +51,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-      </td>
-      </td>
-   
-  
+      </td>  
  </tr>
+ </table>
  <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
