@@ -54,6 +54,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       </td>  
  </tr>
  </table>
+ <table align="center">
  <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
