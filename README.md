@@ -2,12 +2,12 @@
 
 ## About Me
 
- - 🗼Former CEO in IT and Telecom with a newfound passion for programming and technology.\
- - 🌱Experienced in managing a company and now eager to apply these skills in technology projects.\
- - 🚀 Currently working on Play'n'Motiv, a project close to my heart.\
- - 🏄 Proficient in C++ and self-taught in C#. Actively learning HTML, CSS, and JavaScript for web development.\
- - 🎮 Open to various programming domains, interested in web development.\
- - 🤿 Open to collaborations on diverse projects, bringing a unique blend of management and technical skills.\
+ - 🗼Former CEO in IT and Telecom with a newfound passion for programming and technology.
+ - 🌱Experienced in managing a company and now eager to apply these skills in technology projects.
+ - 🚀 Currently working on Play'n'Motiv, a project close to my heart.
+ - 🏄 Proficient in C++ and self-taught in C#. Actively learning HTML, CSS, and JavaScript for web development.
+ - 🎮 Open to various programming domains, interested in web development.
+ - 🤿 Open to collaborations on diverse projects, bringing a unique blend of management and technical skills.
 
 ## My Skill Set  
 
