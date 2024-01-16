@@ -12,7 +12,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td>&nbsp;</td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -41,7 +40,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </td>
         <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      <br>Unity
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
